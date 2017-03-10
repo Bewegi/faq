@@ -110,6 +110,8 @@ TODO
 
 ### Deutsch
 - [Raspberry PI Geek](http://www.raspberry-pi-geek.de/Magazin) 
+- [Raspberry PI Einführung, Grundlagen, Konfiguration, Programmierung, Projekte](http://www.netzmafia.de/skripten/hardware/RasPi/)
+
 
 ### Englisch
 
